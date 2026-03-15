@@ -76,14 +76,14 @@ socket (用户可见)
 ## 📚 学习路径
 
 ### 第一层：协议栈概述
-- [[网络协议栈概述]] - 层次结构、数据流
+- [[OS/Linux/09.网络子系统/网络协议栈概述]] - 层次结构、数据流
 - sk_buff与net_device
 
 ### 第二层：Socket实现
-- [[Socket实现]] - socket API、协议族
+- [[OS/Linux/09.网络子系统/Socket实现]] - socket API、协议族
 
 ### 第三层：高级主题
-- [[Netfilter框架]] - 包过滤、NAT、防火墙
+- [[OS/Linux/09.网络子系统/Netfilter框架]] - 包过滤、NAT、防火墙
 - 网络设备驱动
 
 ## 核心数据结构
@@ -484,7 +484,7 @@ include/net/
 ## 🧪 实验
 
 > [!important] 实践是检验理解的最好方式
-> 详见 [[网络子系统实验|实验指南]]
+> 详见 [[OS/Linux/09.网络子系统/网络子系统实验|实验指南]]
 
 | 实验 | 内容 | 难度 |
 |------|------|------|
@@ -497,5 +497,5 @@ include/net/
 
 - [[../04.中断与异常/Linux中断与异常|中断与异常]] - NAPI、软中断
 - [[../08.设备驱动/Linux设备驱动|设备驱动]] - 网络设备驱动
-- [[Socket实现]] - Socket API实现
-- [[Netfilter框架]] - 包过滤与NAT
+- [[OS/Linux/09.网络子系统/Socket实现]] - Socket API实现
+- [[OS/Linux/09.网络子系统/Netfilter框架]] - 包过滤与NAT

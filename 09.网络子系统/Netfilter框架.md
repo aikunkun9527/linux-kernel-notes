@@ -15,7 +15,7 @@ status: 学习中
 > 理解Linux内核Netfilter框架的架构与使用
 
 > [!note] 网络子系统完整笔记
-> 本笔记详细介绍Netfilter，总览请参考 [[Linux网络子系统|MOC]]
+> 本笔记详细介绍Netfilter，总览请参考 [[OS/Linux/09.网络子系统/Linux网络子系统|MOC]]
 
 ## Netfilter概述
 
@@ -454,6 +454,6 @@ include/linux/
 
 ## 相关笔记
 
-- [[网络协议栈概述]]
-- [[Socket实现]]
-- [[Linux网络子系统]]
+- [[OS/Linux/09.网络子系统/网络协议栈概述]]
+- [[OS/Linux/09.网络子系统/Socket实现]]
+- [[OS/Linux/09.网络子系统/Linux网络子系统]]

@@ -14,7 +14,7 @@ status: 学习中
 > 理解Linux内核Socket的内部实现机制
 
 > [!note] 网络子系统完整笔记
-> 本笔记详细介绍Socket实现，总览请参考 [[Linux网络子系统|MOC]]
+> 本笔记详细介绍Socket实现，总览请参考 [[OS/Linux/09.网络子系统/Linux网络子系统|MOC]]
 
 ## Socket概述
 
@@ -556,6 +556,6 @@ cat /proc/sys/net/ipv4/tcp_wmem
 
 ## 相关笔记
 
-- [[网络协议栈概述]]
-- [[Netfilter框架]]
-- [[Linux网络子系统]]
+- [[OS/Linux/09.网络子系统/网络协议栈概述]]
+- [[OS/Linux/09.网络子系统/Netfilter框架]]
+- [[OS/Linux/09.网络子系统/Linux网络子系统]]
