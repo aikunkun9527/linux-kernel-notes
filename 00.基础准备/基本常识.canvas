@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"a6a6f13648fb1aee","type":"file","file":"OS/Linux/00.基础准备/attachments/内核构成.png","x":280,"y":-332,"width":655,"height":856},
+		{"id":"17f10f2c88cbbbc9","type":"file","file":"OS/Linux/00.基础准备/attachments/源码构成.png","x":-600,"y":60,"width":632,"height":400},
+		{"id":"8d0f77073ec1c0d8","type":"file","file":"OS/Linux/00.基础准备/attachments/目录结构.png","x":-580,"y":-359,"width":373,"height":379}
+	],
+	"edges":[]
+}

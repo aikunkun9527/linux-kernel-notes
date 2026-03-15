@@ -1,0 +1,31 @@
+# Obsidian
+.obsidian/
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+Module.symvers
+modules.order
+.tmp_versions/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Archives (keep the release asset separate)
+# *.tar.gz
+# *.zip
